@@ -4,7 +4,6 @@ Proyecto Integración ML Diplomado
 # Predicción de asistencia a citas médicas
 
 Este repositorio contiene el código y los datos necesarios para reproducir el análisis y los modelos de machine learning desarrollados para predecir la inasistencia de pacientes a sus citas médicas.
-El proyecto fue desarrollado en Python utilizando Google Colab y está diseñado para ejecutarse de manera reproducible, sin requerir carga manual de archivos.
 
 ---
 
