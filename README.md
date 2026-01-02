@@ -13,7 +13,7 @@ El proyecto fue desarrollado en Python utilizando Google Colab y está diseñado
 - `codigo_Modelo_ML_Diplomado.ipynb`: Notebook principal con el preprocesamiento de datos, entrenamiento de modelos y evaluación de resultados.
 - `data/`: Carpeta que contiene en enlace a Google Drive donde están los datasets utilizados en el análisis: https://docs.google.com/spreadsheets/d/1SIIodGO4HBYhlJNkhA6PbYixexHqOEGa/edit?usp=sharing
 - `README.md`: Instrucciones generales de uso y ejecución.
-- `INFORME FINAL DIPLOMADO IA_30122025`: Informe final 
+- `INFORME FINAL DIPLOMADO IA_30122025.pdf`: Informe final 
 
 ---
 
