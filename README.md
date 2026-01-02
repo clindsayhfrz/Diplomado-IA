@@ -10,8 +10,8 @@ El proyecto fue desarrollado en Python utilizando Google Colab y está diseñado
 
 ## Contenido del repositorio
 
-- `notebook.ipynb`: Notebook principal con el preprocesamiento de datos, entrenamiento de modelos y evaluación de resultados.
-- `data/`: Carpeta que contiene los datasets utilizados en el análisis.
+- `codigo_Modelo_ML_Diplomado.ipynb`: Notebook principal con el preprocesamiento de datos, entrenamiento de modelos y evaluación de resultados.
+- `data/`: Carpeta que contiene en enlace a Google Drive donde están los datasets utilizados en el análisis.
 - `README.md`: Instrucciones generales de uso y ejecución.
 
 ---
@@ -24,10 +24,11 @@ El notebook está pensado para ejecutarse en **Google Colab**, por lo que no se 
 
 ## Ejecución del código
 
-1. Abrir el notebook directamente en Google Colab utilizando el siguiente enlace:
+1. Descargar el notebook directamente de Github utilizando el siguiente enlace:
 
-   https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/notebook.ipynb
+   https://github.com/clindsayhfrz/Diplomado-IA/blob/main/codigo_Modelo_ML_Diplomado.ipynb
 
+2. Abrir el notebook en Google Colab
 ---
 
 ## Datos
