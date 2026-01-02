@@ -33,11 +33,7 @@ El notebook está pensado para ejecutarse en **Google Colab**, por lo que no se 
 
 ## Datos
 
-Los datos utilizados para este proyecto se encuentran disponibles en la carpeta `data/` del repositorio.
-
-- Los datos han sido previamente anonimizados.
-- No contienen información personal identificable.
-- Se utilizan exclusivamente con fines académicos.
+Los datos utilizados para este proyecto se encuentran disponibles en la carpeta `data/` del repositorio. Estos han sido previamente anonimizados para no contener información personal identificable para su uso exclusivo de esta actividad académica
 
 ---
 
